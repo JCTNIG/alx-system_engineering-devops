@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -al current_dircetory parent_directory boot
